@@ -1,0 +1,48 @@
+{
+  "filename": "AMCOR_2023Q4_EARNINGS.pdf",
+  "extraction_result": {
+    "financial_data": {
+      "company_info": {
+        "name": "Amcor",
+        "sector": "Packaging",
+        "fiscal_year": "Fiscal 2023"
+      },
+      "revenue_data": {
+        "total_revenue": "$14,694 million",
+        "revenue_growth": "1% on a reported basis, 4% on a comparable constant currency basis",
+        "revenue_breakdown": "Flexibles: $11,154 million, Rigid Packaging: $3,540 million, Other: $0 million"
+      },
+      "profitability": {
+        "gross_profit": "$2,820 million",
+        "operating_profit": "$1,608 million",
+        "net_income": "$1,048 million",
+        "profit_margins": "11.7% on a reported basis, 10.9% on a comparable constant currency basis"
+      },
+      "financial_position": {
+        "total_assets": "$17,426 million",
+        "total_liabilities": "$17,003 million",
+        "shareholders_equity": "$4,141 million",
+        "cash_position": "$689 million"
+      },
+      "cash_flow": {
+        "operating_cash_flow": "$1,261 million",
+        "free_cash_flow": "$848 million",
+        "capex": "$526 million"
+      },
+      "key_metrics": {
+        "eps": "$70.5 cents per share",
+        "pe_ratio": "Not mentioned",
+        "debt_to_equity": "3.0 times",
+        "roe": "52.9% on a reported basis, 70.5% on a diluted basis"
+      },
+      "risks_and_outlook": {
+        "key_risks": "Changes in consumer demand patterns and customer requirements, significant competition in the industries and regions in which Amcor operates, challenging current and future global economic conditions, including the Russia-Ukraine conflict and inflation",
+        "guidance": "Adjusted EPS of 67-71 cents per share, Adjusted Free Cash Flow of $850-950 million",
+        "market_conditions": "Soft consumer demand, customer destocking, and higher interest expense"
+      }
+    },
+    "extraction_success": true,
+    "raw_model_output": "Here is the comprehensive JSON with the extracted financial information:\n\n```json\n{\n  \"company_info\": {\n    \"name\": \"Amcor\",\n    \"sector\": \"Packaging\",\n    \"fiscal_year\": \"Fiscal 2023\"\n  },\n  \"revenue_data\": {\n    \"total_revenue\": \"$14,694 million\",\n    \"revenue_growth\": \"1% on a reported basis, 4% on a comparable constant currency basis\",\n    \"revenue_breakdown\": \"Flexibles: $11,154 million, Rigid Packaging: $3,540 million, Other: $0 million\"\n  },\n  \"profitability\": {\n    \"gross_profit\": \"$2,820 million\",\n    \"operating_profit\": \"$1,608 million\",\n    \"net_income\": \"$1,048 million\",\n    \"profit_margins\": \"11.7% on a reported basis, 10.9% on a comparable constant currency basis\"\n  },\n  \"financial_position\": {\n    \"total_assets\": \"$17,426 million\",\n    \"total_liabilities\": \"$17,003 million\",\n    \"shareholders_equity\": \"$4,141 million\",\n    \"cash_position\": \"$689 million\"\n  },\n  \"cash_flow\": {\n    \"operating_cash_flow\": \"$1,261 million\",\n    \"free_cash_flow\": \"$848 million\",\n    \"capex\": \"$526 million\"\n  },\n  \"key_metrics\": {\n    \"eps\": \"$70.5 cents per share\",\n    \"pe_ratio\": \"Not mentioned\",\n    \"debt_to_equity\": \"3.0 times\",\n    \"roe\": \"52.9% on a reported basis, 70.5% on a diluted basis\"\n  },\n  \"risks_and_outlook\": {\n    \"key_risks\": \"Changes in consumer demand patterns and customer requirements, significant competition in the industries and regions in which Amcor operates, challenging current and future global economic conditions, including the Russia-Ukraine conflict and inflation\",\n    \"guidance\": \"Adjusted EPS of 67-71 cents per share, Adjusted Free Cash Flow of $850-950 million\",\n    \"market_conditions\": \"Soft consumer demand, customer destocking, and higher interest expense\"\n  }\n}\n```\n\nNote that some fields are not available in the document, so they are set to null. Also, specific numbers, percentages, and monetary values are extracted and included in the JSON."
+  },
+  "text_length": 44932
+}

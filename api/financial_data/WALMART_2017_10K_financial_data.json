@@ -1,0 +1,10 @@
+{
+  "filename": "WALMART_2017_10K.pdf",
+  "extraction_result": {
+    "financial_data": {},
+    "extraction_success": false,
+    "error": "(Request ID: Root=1-6898793a-5b585a9c5a883a662b1ce3cf;74815c74-be78-4a3f-85a2-3bf48d426913)\n\nBad request:",
+    "raw_model_output": ""
+  },
+  "text_length": 644143
+}

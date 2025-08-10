@@ -1,0 +1,10 @@
+{
+  "filename": "EBAY_2015_10K.pdf",
+  "extraction_result": {
+    "financial_data": {},
+    "extraction_success": false,
+    "error": "(Request ID: Root=1-689863c4-37f1130e40c362a5363104bc;5dae4beb-9397-4db6-95e9-4c3846bcffc1)\n\nBad request:",
+    "raw_model_output": ""
+  },
+  "text_length": 390288
+}

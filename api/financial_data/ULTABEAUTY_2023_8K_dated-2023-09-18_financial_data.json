@@ -1,0 +1,48 @@
+{
+  "filename": "ULTABEAUTY_2023_8K_dated-2023-09-18.pdf",
+  "extraction_result": {
+    "financial_data": {
+      "company_info": {
+        "name": "Ulta Beauty, Inc.",
+        "sector": "Retail",
+        "fiscal_year": "2023"
+      },
+      "revenue_data": {
+        "total_revenue": null,
+        "revenue_growth": null,
+        "revenue_breakdown": null
+      },
+      "profitability": {
+        "gross_profit": null,
+        "operating_profit": null,
+        "net_income": null,
+        "profit_margins": null
+      },
+      "financial_position": {
+        "total_assets": null,
+        "total_liabilities": null,
+        "shareholders_equity": null,
+        "cash_position": null
+      },
+      "cash_flow": {
+        "operating_cash_flow": null,
+        "free_cash_flow": null,
+        "capex": null
+      },
+      "key_metrics": {
+        "eps": null,
+        "pe_ratio": null,
+        "debt_to_equity": null,
+        "roe": null
+      },
+      "risks_and_outlook": {
+        "key_risks": null,
+        "guidance": null,
+        "market_conditions": null
+      }
+    },
+    "extraction_success": true,
+    "raw_model_output": "Here is the comprehensive JSON with the extracted financial information:\n\n```\n{\n  \"company_info\": {\n    \"name\": \"Ulta Beauty, Inc.\",\n    \"sector\": \"Retail\",\n    \"fiscal_year\": \"2023\"\n  },\n  \"revenue_data\": {\n    \"total_revenue\": null,\n    \"revenue_growth\": null,\n    \"revenue_breakdown\": null\n  },\n  \"profitability\": {\n    \"gross_profit\": null,\n    \"operating_profit\": null,\n    \"net_income\": null,\n    \"profit_margins\": null\n  },\n  \"financial_position\": {\n    \"total_assets\": null,\n    \"total_liabilities\": null,\n    \"shareholders_equity\": null,\n    \"cash_position\": null\n  },\n  \"cash_flow\": {\n    \"operating_cash_flow\": null,\n    \"free_cash_flow\": null,\n    \"capex\": null\n  },\n  \"key_metrics\": {\n    \"eps\": null,\n    \"pe_ratio\": null,\n    \"debt_to_equity\": null,\n    \"roe\": null\n  },\n  \"risks_and_outlook\": {\n    \"key_risks\": null,\n    \"guidance\": null,\n    \"market_conditions\": null\n  }\n}\n```\n\nThe following information was extracted from the document:\n\n* Company name: Ulta Beauty, Inc.\n* Sector: Retail\n* Fiscal year: 2023\n* Total revenue: Not available\n* Revenue growth: Not available\n* Revenue breakdown: Not available\n* Gross profit: Not available\n* Operating profit: Not available\n* Net income: Not available\n* Profit margins: Not available\n* Total assets: Not available\n* Total liabilities: Not available\n* Shareholders equity: Not available\n* Cash position: Not available\n* Operating cash flow: Not available\n* Free cash flow: Not available\n* Capital expenditures: Not available\n* Earnings per share (EPS): Not available\n* Price to earnings (PE) ratio: Not available\n* Debt to equity ratio: Not available\n* Return on equity (ROE): Not available"
+  },
+  "text_length": 6069
+}

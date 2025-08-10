@@ -1,0 +1,10 @@
+{
+  "filename": "ACTIVISIONBLIZZARD_2015_10K.pdf",
+  "extraction_result": {
+    "financial_data": {},
+    "extraction_success": false,
+    "error": "(Request ID: Root=1-689862a8-5d8f16430d7c4216767c91be;d765aac5-e687-47f9-8f71-74bf369106da)\n\nBad request:",
+    "raw_model_output": ""
+  },
+  "text_length": 609321
+}

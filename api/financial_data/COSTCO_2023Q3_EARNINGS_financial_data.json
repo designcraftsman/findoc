@@ -1,0 +1,48 @@
+{
+  "filename": "COSTCO_2023Q3_EARNINGS.pdf",
+  "extraction_result": {
+    "financial_data": {
+      "company_info": {
+        "name": "Costco Wholesale Corporation",
+        "sector": "Retail",
+        "fiscal_year": "Fiscal 2023"
+      },
+      "revenue_data": {
+        "total_revenue": "$52.60 billion",
+        "revenue_growth": "1.9% increase from last year",
+        "revenue_breakdown": "Net sales for the first 36 weeks increased 5.5% to $160.28 billion"
+      },
+      "profitability": {
+        "gross_profit": "$47.175 billion",
+        "operating_profit": "$1.679 billion",
+        "net_income": "$1.302 billion",
+        "profit_margins": "Not specified"
+      },
+      "financial_position": {
+        "total_assets": "$66.752 billion",
+        "total_liabilities": "$43.179 billion",
+        "shareholders_equity": "$23.573 billion",
+        "cash_position": "$12.493 billion"
+      },
+      "cash_flow": {
+        "operating_cash_flow": "Not specified",
+        "free_cash_flow": "Not specified",
+        "capex": "Not specified"
+      },
+      "key_metrics": {
+        "eps": "$2.93 per diluted share",
+        "pe_ratio": "Not specified",
+        "debt_to_equity": "Not specified",
+        "roe": "Not specified"
+      },
+      "risks_and_outlook": {
+        "key_risks": "Domestic and international economic conditions, including exchange rates, inflation or deflation, the effects of competition and regulation, uncertainties in the financial markets, consumer and small business spending patterns and debt levels, breaches of security or privacy of member or business information, conditions affecting the acquisition, development, ownership or use of real estate, capital spending, actions of vendors, rising costs associated with employees (generally including health-care costs), energy and certain commodities, geopolitical conditions (including tariffs and the Ukraine conflict), the ability to maintain effective internal control over financial reporting, regulatory and other impacts related to climate change, public-health related factors, and other risks identified from time to time in the Company\u2019s public statements and reports filed with the Securities and Exchange Commission",
+        "guidance": "The Company does not undertake to update these statements, except as required by law",
+        "market_conditions": "The Company operates in a competitive retail market with changing consumer spending patterns and economic conditions"
+      }
+    },
+    "extraction_success": true,
+    "raw_model_output": "Here is the comprehensive JSON with the extracted financial information:\n\n```\n{\n  \"company_info\": {\n    \"name\": \"Costco Wholesale Corporation\",\n    \"sector\": \"Retail\",\n    \"fiscal_year\": \"Fiscal 2023\"\n  },\n  \"revenue_data\": {\n    \"total_revenue\": \"$52.60 billion\",\n    \"revenue_growth\": \"1.9% increase from last year\",\n    \"revenue_breakdown\": \"Net sales for the first 36 weeks increased 5.5% to $160.28 billion\"\n  },\n  \"profitability\": {\n    \"gross_profit\": \"$47.175 billion\",\n    \"operating_profit\": \"$1.679 billion\",\n    \"net_income\": \"$1.302 billion\",\n    \"profit_margins\": \"Not specified\"\n  },\n  \"financial_position\": {\n    \"total_assets\": \"$66.752 billion\",\n    \"total_liabilities\": \"$43.179 billion\",\n    \"shareholders_equity\": \"$23.573 billion\",\n    \"cash_position\": \"$12.493 billion\"\n  },\n  \"cash_flow\": {\n    \"operating_cash_flow\": \"Not specified\",\n    \"free_cash_flow\": \"Not specified\",\n    \"capex\": \"Not specified\"\n  },\n  \"key_metrics\": {\n    \"eps\": \"$2.93 per diluted share\",\n    \"pe_ratio\": \"Not specified\",\n    \"debt_to_equity\": \"Not specified\",\n    \"roe\": \"Not specified\"\n  },\n  \"risks_and_outlook\": {\n    \"key_risks\": \"Domestic and international economic conditions, including exchange rates, inflation or deflation, the effects of competition and regulation, uncertainties in the financial markets, consumer and small business spending patterns and debt levels, breaches of security or privacy of member or business information, conditions affecting the acquisition, development, ownership or use of real estate, capital spending, actions of vendors, rising costs associated with employees (generally including health-care costs), energy and certain commodities, geopolitical conditions (including tariffs and the Ukraine conflict), the ability to maintain effective internal control over financial reporting, regulatory and other impacts related to climate change, public-health related factors, and other risks identified from time to time in the Company\u2019s public statements and reports filed with the Securities and Exchange Commission\",\n    \"guidance\": \"The Company does not undertake to update these statements, except as required by law\",\n    \"market_conditions\": \"The Company operates in a competitive retail market with changing consumer spending patterns and economic conditions\"\n  }\n}\n```\n\nNote that some fields are not available in the document, so they are set to `null` or `Not specified`."
+  },
+  "text_length": 7949
+}

@@ -1,0 +1,48 @@
+{
+  "filename": "Company XYZ Annual Financial Report 2023.pdf",
+  "extraction_result": {
+    "financial_data": {
+      "company_info": {
+        "name": "Company XYZ",
+        "sector": "Not specified",
+        "fiscal_year": "2023"
+      },
+      "revenue_data": {
+        "total_revenue": "$5.2 billion",
+        "revenue_growth": "7%",
+        "revenue_breakdown": "Not specified"
+      },
+      "profitability": {
+        "gross_profit": "Not specified",
+        "operating_profit": "Not specified",
+        "net_income": "$800 million",
+        "profit_margins": "Not specified"
+      },
+      "financial_position": {
+        "total_assets": "Not specified",
+        "total_liabilities": "Not specified",
+        "shareholders_equity": "Not specified",
+        "cash_position": "Not specified"
+      },
+      "cash_flow": {
+        "operating_cash_flow": "Not specified",
+        "free_cash_flow": "Not specified",
+        "capex": "Not specified"
+      },
+      "key_metrics": {
+        "eps": "Not specified",
+        "pe_ratio": "Not specified",
+        "debt_to_equity": "Not specified",
+        "roe": "Not specified"
+      },
+      "risks_and_outlook": {
+        "key_risks": "Market volatility, supply chain disruptions, and regulatory changes",
+        "guidance": "6% revenue growth in 2024, driven by expansion into emerging markets and product innovation",
+        "market_conditions": "Global economic challenges"
+      }
+    },
+    "extraction_success": true,
+    "raw_model_output": "Here is the comprehensive JSON with the extracted financial information:\n\n```json\n{\n  \"company_info\": {\n    \"name\": \"Company XYZ\",\n    \"sector\": \"Not specified\",\n    \"fiscal_year\": \"2023\"\n  },\n  \"revenue_data\": {\n    \"total_revenue\": \"$5.2 billion\",\n    \"revenue_growth\": \"7%\",\n    \"revenue_breakdown\": \"Not specified\"\n  },\n  \"profitability\": {\n    \"gross_profit\": \"Not specified\",\n    \"operating_profit\": \"Not specified\",\n    \"net_income\": \"$800 million\",\n    \"profit_margins\": \"Not specified\"\n  },\n  \"financial_position\": {\n    \"total_assets\": \"Not specified\",\n    \"total_liabilities\": \"Not specified\",\n    \"shareholders_equity\": \"Not specified\",\n    \"cash_position\": \"Not specified\"\n  },\n  \"cash_flow\": {\n    \"operating_cash_flow\": \"Not specified\",\n    \"free_cash_flow\": \"Not specified\",\n    \"capex\": \"Not specified\"\n  },\n  \"key_metrics\": {\n    \"eps\": \"Not specified\",\n    \"pe_ratio\": \"Not specified\",\n    \"debt_to_equity\": \"Not specified\",\n    \"roe\": \"Not specified\"\n  },\n  \"risks_and_outlook\": {\n    \"key_risks\": \"Market volatility, supply chain disruptions, and regulatory changes\",\n    \"guidance\": \"6% revenue growth in 2024, driven by expansion into emerging markets and product innovation\",\n    \"market_conditions\": \"Global economic challenges\"\n  }\n}\n```\n\nNote that some fields were not available in the document, so they were set to `null` or `Not specified`."
+  },
+  "text_length": 710
+}

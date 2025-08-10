@@ -1,0 +1,10 @@
+{
+  "filename": "AMAZON_2021_10K.pdf",
+  "extraction_result": {
+    "financial_data": {},
+    "extraction_success": false,
+    "error": "(Request ID: Root=1-68986001-35db32270548ea96005348f3;2e9eb0f0-0b5e-4b2d-8c29-18d3d6f8dbf4)\n\nBad request:",
+    "raw_model_output": ""
+  },
+  "text_length": 635091
+}

@@ -1,0 +1,10 @@
+{
+  "filename": "BOEING_2017_10K.pdf",
+  "extraction_result": {
+    "financial_data": {},
+    "extraction_success": false,
+    "error": "(Request ID: Root=1-689860ec-1875d5bb0a9a4c23174741b8;423d3fbc-3a85-492f-80eb-2d9f7503d34d)\n\nBad request:",
+    "raw_model_output": ""
+  },
+  "text_length": 360053
+}

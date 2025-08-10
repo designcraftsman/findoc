@@ -1,0 +1,48 @@
+{
+  "filename": "MCDONALDS_8K_dated-2023-02-13.pdf",
+  "extraction_result": {
+    "financial_data": {
+      "company_info": {
+        "name": "McDonald's Corporation",
+        "sector": "Fast Food",
+        "fiscal_year": "2023"
+      },
+      "revenue_data": {
+        "total_revenue": "Not available",
+        "revenue_growth": "Not available",
+        "revenue_breakdown": "Not available"
+      },
+      "profitability": {
+        "gross_profit": "Not available",
+        "operating_profit": "Not available",
+        "net_income": "Not available",
+        "profit_margins": "Not available"
+      },
+      "financial_position": {
+        "total_assets": "Not available",
+        "total_liabilities": "Not available",
+        "shareholders_equity": "Not available",
+        "cash_position": "Not available"
+      },
+      "cash_flow": {
+        "operating_cash_flow": "Not available",
+        "free_cash_flow": "Not available",
+        "capex": "Not available"
+      },
+      "key_metrics": {
+        "eps": "Not available",
+        "pe_ratio": "Not available",
+        "debt_to_equity": "Not available",
+        "roe": "Not available"
+      },
+      "risks_and_outlook": {
+        "key_risks": "Not available",
+        "guidance": "The Company's 2023 performance on two key financial performance metrics: operating income (40%) and Systemwide sales (30%), which include sales at all restaurants, whether operated by the Company or by franchisees.",
+        "market_conditions": "Not available"
+      }
+    },
+    "extraction_success": true,
+    "raw_model_output": "Here is the comprehensive JSON with the extracted financial information:\n\n```\n{\n  \"company_info\": {\n    \"name\": \"McDonald's Corporation\",\n    \"sector\": \"Fast Food\",\n    \"fiscal_year\": \"2023\"\n  },\n  \"revenue_data\": {\n    \"total_revenue\": \"Not available\",\n    \"revenue_growth\": \"Not available\",\n    \"revenue_breakdown\": \"Not available\"\n  },\n  \"profitability\": {\n    \"gross_profit\": \"Not available\",\n    \"operating_profit\": \"Not available\",\n    \"net_income\": \"Not available\",\n    \"profit_margins\": \"Not available\"\n  },\n  \"financial_position\": {\n    \"total_assets\": \"Not available\",\n    \"total_liabilities\": \"Not available\",\n    \"shareholders_equity\": \"Not available\",\n    \"cash_position\": \"Not available\"\n  },\n  \"cash_flow\": {\n    \"operating_cash_flow\": \"Not available\",\n    \"free_cash_flow\": \"Not available\",\n    \"capex\": \"Not available\"\n  },\n  \"key_metrics\": {\n    \"eps\": \"Not available\",\n    \"pe_ratio\": \"Not available\",\n    \"debt_to_equity\": \"Not available\",\n    \"roe\": \"Not available\"\n  },\n  \"risks_and_outlook\": {\n    \"key_risks\": \"Not available\",\n    \"guidance\": \"The Company's 2023 performance on two key financial performance metrics: operating income (40%) and Systemwide sales (30%), which include sales at all restaurants, whether operated by the Company or by franchisees.\",\n    \"market_conditions\": \"Not available\"\n  }\n}\n```\n\nNote that the following information was extracted from the document:\n\n* Company name: McDonald's Corporation\n* Sector: Fast Food\n* Fiscal year: 2023\n* Key metrics:\n\t+ EPS: Not available\n\t+ PE ratio: Not available\n\t+ Debt-to-equity: Not available\n\t+ ROE: Not available\n* Guidance: The Company's 2023 performance on two key financial performance metrics: operating income (40%) and Systemwide sales (30%), which include sales at all restaurants, whether operated by the Company or by franchisees.\n* Risks and outlook: Not available\n\nThe following information was not available in the document:\n\n* Total revenue\n* Revenue growth\n* Revenue breakdown\n* Gross profit\n* Operating profit\n* Net income\n* Profit margins\n* Total assets\n* Total liabilities\n* Shareholders equity\n* Cash position\n* Operating cash flow\n* Free cash flow\n* Capital expenditures\n* EPS\n* PE ratio\n* Debt-to-equity\n* ROE"
+  },
+  "text_length": 6184
+}

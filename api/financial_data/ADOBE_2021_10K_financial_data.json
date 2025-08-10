@@ -1,0 +1,10 @@
+{
+  "filename": "ADOBE_2021_10K.pdf",
+  "extraction_result": {
+    "financial_data": {},
+    "extraction_success": false,
+    "error": "(Request ID: Root=1-68987fd9-5700bf783ec93ef660519ce6;d67526be-a149-4e0d-9afe-f160d4615574)\n\nBad request:",
+    "raw_model_output": ""
+  },
+  "text_length": 384100
+}

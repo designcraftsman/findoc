@@ -1,0 +1,48 @@
+{
+  "filename": "MCDONALDS_2023Q1_EARNINGS.pdf",
+  "extraction_result": {
+    "financial_data": {
+      "company_info": {
+        "name": "McDonald's Corporation",
+        "sector": "Food Service Retail",
+        "fiscal_year": "First Quarter 2023"
+      },
+      "revenue_data": {
+        "total_revenue": "$5,897.8 million",
+        "revenue_growth": "4% (8% in constant currencies)",
+        "revenue_breakdown": "Sales by Company-operated restaurants: $2,224.3 million, Revenues from franchised restaurants: $3,587.5 million, Other revenues: $86.0 million"
+      },
+      "profitability": {
+        "gross_profit": "$2,532.4 million",
+        "operating_profit": "$2,532.4 million",
+        "net_income": "$1,802.3 million",
+        "profit_margins": "Not mentioned"
+      },
+      "financial_position": {
+        "total_assets": "Not mentioned",
+        "total_liabilities": "Not mentioned",
+        "shareholders_equity": "Not mentioned",
+        "cash_position": "Not mentioned"
+      },
+      "cash_flow": {
+        "operating_cash_flow": "Not mentioned",
+        "free_cash_flow": "Not mentioned",
+        "capex": "Not mentioned"
+      },
+      "key_metrics": {
+        "eps": "$2.45 per share",
+        "pe_ratio": "Not mentioned",
+        "debt_to_equity": "Not mentioned",
+        "roe": "Not mentioned"
+      },
+      "risks_and_outlook": {
+        "key_risks": "Not mentioned",
+        "guidance": "Accelerating the Arches strategy is working, as comparable sales grew 12.6% through a healthy balance of strategic menu price increases and positive traffic growth",
+        "market_conditions": "Challenging operating environment, customer demand for McDonald\u2019s Brand remains strong"
+      }
+    },
+    "extraction_success": true,
+    "raw_model_output": "Here is the comprehensive JSON with the extracted financial information:\n\n```\n{\n  \"company_info\": {\n    \"name\": \"McDonald's Corporation\",\n    \"sector\": \"Food Service Retail\",\n    \"fiscal_year\": \"First Quarter 2023\"\n  },\n  \"revenue_data\": {\n    \"total_revenue\": \"$5,897.8 million\",\n    \"revenue_growth\": \"4% (8% in constant currencies)\",\n    \"revenue_breakdown\": \"Sales by Company-operated restaurants: $2,224.3 million, Revenues from franchised restaurants: $3,587.5 million, Other revenues: $86.0 million\"\n  },\n  \"profitability\": {\n    \"gross_profit\": \"$2,532.4 million\",\n    \"operating_profit\": \"$2,532.4 million\",\n    \"net_income\": \"$1,802.3 million\",\n    \"profit_margins\": \"Not mentioned\"\n  },\n  \"financial_position\": {\n    \"total_assets\": \"Not mentioned\",\n    \"total_liabilities\": \"Not mentioned\",\n    \"shareholders_equity\": \"Not mentioned\",\n    \"cash_position\": \"Not mentioned\"\n  },\n  \"cash_flow\": {\n    \"operating_cash_flow\": \"Not mentioned\",\n    \"free_cash_flow\": \"Not mentioned\",\n    \"capex\": \"Not mentioned\"\n  },\n  \"key_metrics\": {\n    \"eps\": \"$2.45 per share\",\n    \"pe_ratio\": \"Not mentioned\",\n    \"debt_to_equity\": \"Not mentioned\",\n    \"roe\": \"Not mentioned\"\n  },\n  \"risks_and_outlook\": {\n    \"key_risks\": \"Not mentioned\",\n    \"guidance\": \"Accelerating the Arches strategy is working, as comparable sales grew 12.6% through a healthy balance of strategic menu price increases and positive traffic growth\",\n    \"market_conditions\": \"Challenging operating environment, customer demand for McDonald\u2019s Brand remains strong\"\n  }\n}\n```\n\nNote that some fields are not available in the document, so they are set to null."
+  },
+  "text_length": 11651
+}

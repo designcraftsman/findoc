@@ -1,0 +1,48 @@
+{
+  "filename": "EBAY_2023Q2_EARNINGS.pdf",
+  "extraction_result": {
+    "financial_data": {
+      "company_info": {
+        "name": "eBay Inc.",
+        "sector": "E-commerce",
+        "fiscal_year": "2023"
+      },
+      "revenue_data": {
+        "total_revenue": "$2.5 billion",
+        "revenue_growth": "5% on an as-reported basis and 6% on an FX-Neutral basis",
+        "revenue_breakdown": "Gross Merchandise Volume (GMV) of $18.2 billion"
+      },
+      "profitability": {
+        "gross_profit": "$1.822 billion",
+        "operating_profit": "$518 million",
+        "net_income": "$172 million",
+        "profit_margins": "20.4% GAAP and 26.9% Non-GAAP"
+      },
+      "financial_position": {
+        "total_assets": "$19.956 billion",
+        "total_liabilities": "$14.688 billion",
+        "shareholders_equity": "$5.268 billion",
+        "cash_position": "$5.3 billion"
+      },
+      "cash_flow": {
+        "operating_cash_flow": "$605 million",
+        "free_cash_flow": "$492 million",
+        "capex": "$113 million"
+      },
+      "key_metrics": {
+        "eps": "$0.32 per diluted share",
+        "pe_ratio": "Not mentioned",
+        "debt_to_equity": "Not mentioned",
+        "roe": "Not mentioned"
+      },
+      "risks_and_outlook": {
+        "key_risks": "Ongoing macroeconomic uncertainty, changes in consumer confidence, and increasing competition",
+        "guidance": "Revenue guidance is provided on an FX-Neutral basis and excludes incremental revenue from acquisitions or dispositions",
+        "market_conditions": "E-commerce growth and cross-border trade"
+      }
+    },
+    "extraction_success": true,
+    "raw_model_output": "Here is the comprehensive JSON with the extracted financial information:\n\n```\n{\n  \"company_info\": {\n    \"name\": \"eBay Inc.\",\n    \"sector\": \"E-commerce\",\n    \"fiscal_year\": \"2023\"\n  },\n  \"revenue_data\": {\n    \"total_revenue\": \"$2.5 billion\",\n    \"revenue_growth\": \"5% on an as-reported basis and 6% on an FX-Neutral basis\",\n    \"revenue_breakdown\": \"Gross Merchandise Volume (GMV) of $18.2 billion\"\n  },\n  \"profitability\": {\n    \"gross_profit\": \"$1.822 billion\",\n    \"operating_profit\": \"$518 million\",\n    \"net_income\": \"$172 million\",\n    \"profit_margins\": \"20.4% GAAP and 26.9% Non-GAAP\"\n  },\n  \"financial_position\": {\n    \"total_assets\": \"$19.956 billion\",\n    \"total_liabilities\": \"$14.688 billion\",\n    \"shareholders_equity\": \"$5.268 billion\",\n    \"cash_position\": \"$5.3 billion\"\n  },\n  \"cash_flow\": {\n    \"operating_cash_flow\": \"$605 million\",\n    \"free_cash_flow\": \"$492 million\",\n    \"capex\": \"$113 million\"\n  },\n  \"key_metrics\": {\n    \"eps\": \"$0.32 per diluted share\",\n    \"pe_ratio\": \"Not mentioned\",\n    \"debt_to_equity\": \"Not mentioned\",\n    \"roe\": \"Not mentioned\"\n  },\n  \"risks_and_outlook\": {\n    \"key_risks\": \"Ongoing macroeconomic uncertainty, changes in consumer confidence, and increasing competition\",\n    \"guidance\": \"Revenue guidance is provided on an FX-Neutral basis and excludes incremental revenue from acquisitions or dispositions\",\n    \"market_conditions\": \"E-commerce growth and cross-border trade\"\n  }\n}\n```\n\nNote that some fields are not available in the document, so they are set to `null`. Also, specific numbers, percentages, and monetary values are extracted and included in the JSON."
+  },
+  "text_length": 39290
+}

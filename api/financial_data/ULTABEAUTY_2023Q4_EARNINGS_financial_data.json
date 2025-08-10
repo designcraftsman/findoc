@@ -1,0 +1,55 @@
+{
+  "filename": "ULTABEAUTY_2023Q4_EARNINGS.pdf",
+  "extraction_result": {
+    "financial_data": {
+      "company_info": {
+        "name": "Ulta Beauty, Inc.",
+        "sector": "Retail",
+        "fiscal_year": "Fiscal 2022"
+      },
+      "revenue_data": {
+        "total_revenue": "$10.2 billion",
+        "revenue_growth": "18.3%",
+        "revenue_breakdown": {
+          "Cosmetics": "42%",
+          "Haircare products and styling tools": "21%",
+          "Skincare": "17%",
+          "Fragrance and bath": "14%",
+          "Services": "3%",
+          "Accessories and other": "3%"
+        }
+      },
+      "profitability": {
+        "gross_profit": "$4.0 billion",
+        "operating_profit": "$1.6 billion",
+        "net_income": "$1.2 billion",
+        "profit_margins": "39.6%"
+      },
+      "financial_position": {
+        "total_assets": "$5.37 billion",
+        "total_liabilities": "$3.41 billion",
+        "shareholders_equity": "$1.96 billion",
+        "cash_position": "$737.9 million"
+      },
+      "cash_flow": {
+        "operating_cash_flow": "$1.48 billion",
+        "free_cash_flow": "$1.23 billion",
+        "capex": "$312 million"
+      },
+      "key_metrics": {
+        "eps": "$24.01",
+        "pe_ratio": "not mentioned",
+        "debt_to_equity": "not mentioned",
+        "roe": "not mentioned"
+      },
+      "risks_and_outlook": {
+        "key_risks": "not mentioned",
+        "guidance": "Net sales of $10.95 billion to $11.05 billion, comparable sales of 4% to 5%, new stores of 25-30, and operating margin of 14.7% to 15.0%",
+        "market_conditions": "not mentioned"
+      }
+    },
+    "extraction_success": true,
+    "raw_model_output": "Here is the comprehensive JSON with the extracted financial information:\n\n```json\n{\n  \"company_info\": {\n    \"name\": \"Ulta Beauty, Inc.\",\n    \"sector\": \"Retail\",\n    \"fiscal_year\": \"Fiscal 2022\"\n  },\n  \"revenue_data\": {\n    \"total_revenue\": \"$10.2 billion\",\n    \"revenue_growth\": \"18.3%\",\n    \"revenue_breakdown\": {\n      \"Cosmetics\": \"42%\",\n      \"Haircare products and styling tools\": \"21%\",\n      \"Skincare\": \"17%\",\n      \"Fragrance and bath\": \"14%\",\n      \"Services\": \"3%\",\n      \"Accessories and other\": \"3%\"\n    }\n  },\n  \"profitability\": {\n    \"gross_profit\": \"$4.0 billion\",\n    \"operating_profit\": \"$1.6 billion\",\n    \"net_income\": \"$1.2 billion\",\n    \"profit_margins\": \"39.6%\"\n  },\n  \"financial_position\": {\n    \"total_assets\": \"$5.37 billion\",\n    \"total_liabilities\": \"$3.41 billion\",\n    \"shareholders_equity\": \"$1.96 billion\",\n    \"cash_position\": \"$737.9 million\"\n  },\n  \"cash_flow\": {\n    \"operating_cash_flow\": \"$1.48 billion\",\n    \"free_cash_flow\": \"$1.23 billion\",\n    \"capex\": \"$312 million\"\n  },\n  \"key_metrics\": {\n    \"eps\": \"$24.01\",\n    \"pe_ratio\": \"not mentioned\",\n    \"debt_to_equity\": \"not mentioned\",\n    \"roe\": \"not mentioned\"\n  },\n  \"risks_and_outlook\": {\n    \"key_risks\": \"not mentioned\",\n    \"guidance\": \"Net sales of $10.95 billion to $11.05 billion, comparable sales of 4% to 5%, new stores of 25-30, and operating margin of 14.7% to 15.0%\",\n    \"market_conditions\": \"not mentioned\"\n  }\n}\n```\n\nNote that some fields are not available in the document, so they are set to `null`. Also, specific numbers, percentages, and monetary values are extracted and included in the JSON."
+  },
+  "text_length": 20570
+}

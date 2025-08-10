@@ -1,0 +1,10 @@
+{
+  "filename": "3M_2021_10K.pdf",
+  "extraction_result": {
+    "financial_data": {},
+    "extraction_success": false,
+    "error": "(Request ID: Root=1-68987e60-0842f77b12c5f1051e260760;86fb62c4-5f9c-4abc-8e9f-08fc1b913a55)\n\nBad request:",
+    "raw_model_output": ""
+  },
+  "text_length": 591122
+}

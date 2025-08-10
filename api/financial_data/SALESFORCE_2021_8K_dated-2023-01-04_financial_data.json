@@ -1,0 +1,48 @@
+{
+  "filename": "SALESFORCE_2021_8K_dated-2023-01-04.pdf",
+  "extraction_result": {
+    "financial_data": {
+      "company_info": {
+        "name": "Salesforce, Inc.",
+        "sector": "Technology",
+        "fiscal_year": "Fiscal Year 2023"
+      },
+      "revenue_data": {
+        "total_revenue": "$1.4 billion to $2.1 billion",
+        "revenue_growth": "No specific growth rate mentioned",
+        "revenue_breakdown": "No specific segment breakdown mentioned"
+      },
+      "profitability": {
+        "gross_profit": "$1.0 billion to $1.4 billion",
+        "operating_profit": "No specific amount mentioned",
+        "net_income": "No specific amount mentioned",
+        "profit_margins": "No specific margin percentage mentioned"
+      },
+      "financial_position": {
+        "total_assets": "No specific amount mentioned",
+        "total_liabilities": "No specific amount mentioned",
+        "shareholders_equity": "No specific amount mentioned",
+        "cash_position": "No specific amount mentioned"
+      },
+      "cash_flow": {
+        "operating_cash_flow": "$1.2 billion to $1.7 billion",
+        "free_cash_flow": "No specific amount mentioned",
+        "capex": "No specific amount mentioned"
+      },
+      "key_metrics": {
+        "eps": "No specific amount mentioned",
+        "pe_ratio": "No specific ratio mentioned",
+        "debt_to_equity": "No specific ratio mentioned",
+        "roe": "No specific percentage mentioned"
+      },
+      "risks_and_outlook": {
+        "key_risks": "Restructuring costs and charges, potential impact on business operations and reputation",
+        "guidance": "The Company expects that approximately $1.2 billion to $1.7 billion will be in future cash expenditures",
+        "market_conditions": "Challenging economic environment, customers taking a more measured approach to purchasing decisions"
+      }
+    },
+    "extraction_success": true,
+    "raw_model_output": "Here is the comprehensive JSON with the extracted financial information:\n\n```\n{\n  \"company_info\": {\n    \"name\": \"Salesforce, Inc.\",\n    \"sector\": \"Technology\",\n    \"fiscal_year\": \"Fiscal Year 2023\"\n  },\n  \"revenue_data\": {\n    \"total_revenue\": \"$1.4 billion to $2.1 billion\",\n    \"revenue_growth\": \"No specific growth rate mentioned\",\n    \"revenue_breakdown\": \"No specific segment breakdown mentioned\"\n  },\n  \"profitability\": {\n    \"gross_profit\": \"$1.0 billion to $1.4 billion\",\n    \"operating_profit\": \"No specific amount mentioned\",\n    \"net_income\": \"No specific amount mentioned\",\n    \"profit_margins\": \"No specific margin percentage mentioned\"\n  },\n  \"financial_position\": {\n    \"total_assets\": \"No specific amount mentioned\",\n    \"total_liabilities\": \"No specific amount mentioned\",\n    \"shareholders_equity\": \"No specific amount mentioned\",\n    \"cash_position\": \"No specific amount mentioned\"\n  },\n  \"cash_flow\": {\n    \"operating_cash_flow\": \"$1.2 billion to $1.7 billion\",\n    \"free_cash_flow\": \"No specific amount mentioned\",\n    \"capex\": \"No specific amount mentioned\"\n  },\n  \"key_metrics\": {\n    \"eps\": \"No specific amount mentioned\",\n    \"pe_ratio\": \"No specific ratio mentioned\",\n    \"debt_to_equity\": \"No specific ratio mentioned\",\n    \"roe\": \"No specific percentage mentioned\"\n  },\n  \"risks_and_outlook\": {\n    \"key_risks\": \"Restructuring costs and charges, potential impact on business operations and reputation\",\n    \"guidance\": \"The Company expects that approximately $1.2 billion to $1.7 billion will be in future cash expenditures\",\n    \"market_conditions\": \"Challenging economic environment, customers taking a more measured approach to purchasing decisions\"\n  }\n}\n```\n\nNote that some fields are left blank or set to \"No specific amount mentioned\" or \"No specific percentage mentioned\" as the document does not provide specific financial information for those fields."
+  },
+  "text_length": 9916
+}

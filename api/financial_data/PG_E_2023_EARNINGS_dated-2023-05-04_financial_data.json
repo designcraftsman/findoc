@@ -1,0 +1,48 @@
+{
+  "filename": "PG_E_2023_EARNINGS_dated-2023-05-04.pdf",
+  "extraction_result": {
+    "financial_data": {
+      "company_info": {
+        "name": "PG&E Corporation",
+        "sector": "Utilities",
+        "fiscal_year": "2023"
+      },
+      "revenue_data": {
+        "total_revenue": "6,209 million",
+        "revenue_growth": "None mentioned",
+        "revenue_breakdown": "Electric: 4,119 million, Natural gas: 2,090 million"
+      },
+      "profitability": {
+        "gross_profit": "629 million",
+        "operating_profit": "536 million",
+        "net_income": "572 million",
+        "profit_margins": "9.1% (Gross Profit Margin)"
+      },
+      "financial_position": {
+        "total_assets": "Not mentioned",
+        "total_liabilities": "Not mentioned",
+        "shareholders_equity": "Not mentioned",
+        "cash_position": "Not mentioned"
+      },
+      "cash_flow": {
+        "operating_cash_flow": "Not mentioned",
+        "free_cash_flow": "Not mentioned",
+        "capex": "Not mentioned"
+      },
+      "key_metrics": {
+        "eps": "0.27 per diluted share",
+        "pe_ratio": "Not mentioned",
+        "debt_to_equity": "Not mentioned",
+        "roe": "Not mentioned"
+      },
+      "risks_and_outlook": {
+        "key_risks": "Wildfire-related costs, timing of regulatory recoveries, special tax items, and investigation remedies",
+        "guidance": "2023 EPS guidance: $1.00 to $1.13 per share (GAAP), $1.19 to $1.23 per share (non-GAAP)",
+        "market_conditions": "Market commentary not provided"
+      }
+    },
+    "extraction_success": true,
+    "raw_model_output": "Here is the comprehensive JSON with the extracted financial information:\n\n```json\n{\n  \"company_info\": {\n    \"name\": \"PG&E Corporation\",\n    \"sector\": \"Utilities\",\n    \"fiscal_year\": \"2023\"\n  },\n  \"revenue_data\": {\n    \"total_revenue\": \"6,209 million\",\n    \"revenue_growth\": \"None mentioned\",\n    \"revenue_breakdown\": \"Electric: 4,119 million, Natural gas: 2,090 million\"\n  },\n  \"profitability\": {\n    \"gross_profit\": \"629 million\",\n    \"operating_profit\": \"536 million\",\n    \"net_income\": \"572 million\",\n    \"profit_margins\": \"9.1% (Gross Profit Margin)\"\n  },\n  \"financial_position\": {\n    \"total_assets\": \"Not mentioned\",\n    \"total_liabilities\": \"Not mentioned\",\n    \"shareholders_equity\": \"Not mentioned\",\n    \"cash_position\": \"Not mentioned\"\n  },\n  \"cash_flow\": {\n    \"operating_cash_flow\": \"Not mentioned\",\n    \"free_cash_flow\": \"Not mentioned\",\n    \"capex\": \"Not mentioned\"\n  },\n  \"key_metrics\": {\n    \"eps\": \"0.27 per diluted share\",\n    \"pe_ratio\": \"Not mentioned\",\n    \"debt_to_equity\": \"Not mentioned\",\n    \"roe\": \"Not mentioned\"\n  },\n  \"risks_and_outlook\": {\n    \"key_risks\": \"Wildfire-related costs, timing of regulatory recoveries, special tax items, and investigation remedies\",\n    \"guidance\": \"2023 EPS guidance: $1.00 to $1.13 per share (GAAP), $1.19 to $1.23 per share (non-GAAP)\",\n    \"market_conditions\": \"Market commentary not provided\"\n  }\n}\n```\n\nNote that some fields are not available in the document, so they are set to `null`. Additionally, some fields are not explicitly mentioned in the document, but can be inferred based on the context."
+  },
+  "text_length": 23269
+}

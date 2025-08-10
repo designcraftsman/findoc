@@ -1,0 +1,10 @@
+{
+  "filename": "WALMART_2024Q1_10Q.pdf",
+  "extraction_result": {
+    "financial_data": {},
+    "extraction_success": false,
+    "error": "(Request ID: Root=1-68986122-1795b72d1ff93b6f0b93f2ac;03b2ae8a-86eb-440e-b46b-63bb194f0a89)\n\nBad request:",
+    "raw_model_output": ""
+  },
+  "text_length": 158422
+}

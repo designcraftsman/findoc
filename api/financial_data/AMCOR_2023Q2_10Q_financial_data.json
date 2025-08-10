@@ -1,0 +1,48 @@
+{
+  "filename": "AMCOR_2023Q2_10Q.pdf",
+  "extraction_result": {
+    "financial_data": {
+      "company_info": {
+        "name": "Amcor plc",
+        "sector": "Packaging",
+        "fiscal_year": "2022"
+      },
+      "revenue_data": {
+        "total_revenue": "$3,642 million",
+        "revenue_growth": "4% (3 months ended December 31, 2022)",
+        "revenue_breakdown": "Flexibles: $2,812 million, Rigid Packaging: $830 million, Other: $0 million"
+      },
+      "profitability": {
+        "gross_profit": "$662 million",
+        "operating_profit": "$559 million",
+        "net_income": "$461 million",
+        "profit_margins": "18.2% (3 months ended December 31, 2022)"
+      },
+      "financial_position": {
+        "total_assets": "$17,475 million",
+        "total_liabilities": "$13,064 million",
+        "shareholders_equity": "$4,411 million",
+        "cash_position": "$837 million"
+      },
+      "cash_flow": {
+        "operating_cash_flow": "$145 million",
+        "free_cash_flow": "$-13 million",
+        "capex": "$250 million"
+      },
+      "key_metrics": {
+        "eps": "$0.309 per share (3 months ended December 31, 2022)",
+        "pe_ratio": "not available",
+        "debt_to_equity": "not available",
+        "roe": "not available"
+      },
+      "risks_and_outlook": {
+        "key_risks": "Russia-Ukraine conflict, COVID-19 pandemic, inflation, supply chain disruptions",
+        "guidance": "Invest $110 million to $130 million of the cash received from the sale of the Russian business in a range of additional initiatives",
+        "market_conditions": "Global economic conditions, including inflation and supply chain disruptions"
+      }
+    },
+    "extraction_success": true,
+    "raw_model_output": "Here is the comprehensive JSON with the requested structure:\n\n```\n{\n  \"company_info\": {\n    \"name\": \"Amcor plc\",\n    \"sector\": \"Packaging\",\n    \"fiscal_year\": \"2022\"\n  },\n  \"revenue_data\": {\n    \"total_revenue\": \"$3,642 million\",\n    \"revenue_growth\": \"4% (3 months ended December 31, 2022)\",\n    \"revenue_breakdown\": \"Flexibles: $2,812 million, Rigid Packaging: $830 million, Other: $0 million\"\n  },\n  \"profitability\": {\n    \"gross_profit\": \"$662 million\",\n    \"operating_profit\": \"$559 million\",\n    \"net_income\": \"$461 million\",\n    \"profit_margins\": \"18.2% (3 months ended December 31, 2022)\"\n  },\n  \"financial_position\": {\n    \"total_assets\": \"$17,475 million\",\n    \"total_liabilities\": \"$13,064 million\",\n    \"shareholders_equity\": \"$4,411 million\",\n    \"cash_position\": \"$837 million\"\n  },\n  \"cash_flow\": {\n    \"operating_cash_flow\": \"$145 million\",\n    \"free_cash_flow\": \"$-13 million\",\n    \"capex\": \"$250 million\"\n  },\n  \"key_metrics\": {\n    \"eps\": \"$0.309 per share (3 months ended December 31, 2022)\",\n    \"pe_ratio\": \"not available\",\n    \"debt_to_equity\": \"not available\",\n    \"roe\": \"not available\"\n  },\n  \"risks_and_outlook\": {\n    \"key_risks\": \"Russia-Ukraine conflict, COVID-19 pandemic, inflation, supply chain disruptions\",\n    \"guidance\": \"Invest $110 million to $130 million of the cash received from the sale of the Russian business in a range of additional initiatives\",\n    \"market_conditions\": \"Global economic conditions, including inflation and supply chain disruptions\"\n  }\n}\n```\n\nNote that some fields are not available in the document, so they are set to `null`. Also, some fields have multiple values, but I have only provided one value for each field."
+  },
+  "text_length": 124266
+}

@@ -1,0 +1,10 @@
+{
+  "filename": "3M_2023Q2_10Q.pdf",
+  "extraction_result": {
+    "financial_data": {},
+    "extraction_success": false,
+    "error": "(Request ID: Root=1-68987e28-13d6c50d7bb0f20b3ba67913;2a4c6102-439c-4a70-b11e-8435233eeeb7)\n\nBad request:",
+    "raw_model_output": ""
+  },
+  "text_length": 353609
+}

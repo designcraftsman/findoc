@@ -1,0 +1,10 @@
+{
+  "filename": "AMAZON_2015_10K.pdf",
+  "extraction_result": {
+    "financial_data": {},
+    "extraction_success": false,
+    "error": "(Request ID: Root=1-6898614c-69f5b6cc1704400479b3fed7;f4b6c98d-d113-419d-9159-f3f64247da5f)\n\nBad request:",
+    "raw_model_output": ""
+  },
+  "text_length": 280316
+}

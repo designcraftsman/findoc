@@ -1,0 +1,10 @@
+{
+  "filename": "ADOBE_2022Q2_10Q.pdf",
+  "extraction_result": {
+    "financial_data": {},
+    "extraction_success": false,
+    "error": "(Request ID: Root=1-68986946-1f8513f20b6e9801741bd9e4;388058f8-f201-4a7b-a01e-92ec5c58eece)\n\nBad request:",
+    "raw_model_output": ""
+  },
+  "text_length": 196786
+}

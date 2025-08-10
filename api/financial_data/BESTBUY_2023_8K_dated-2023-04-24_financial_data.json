@@ -1,0 +1,48 @@
+{
+  "filename": "BESTBUY_2023_8K_dated-2023-04-24.pdf",
+  "extraction_result": {
+    "financial_data": {
+      "company_info": {
+        "name": "Best Buy Co., Inc.",
+        "sector": "Electronics Retailing",
+        "fiscal_year": "2023"
+      },
+      "revenue_data": {
+        "total_revenue": "N/A",
+        "revenue_growth": "N/A",
+        "revenue_breakdown": "N/A"
+      },
+      "profitability": {
+        "gross_profit": "N/A",
+        "operating_profit": "N/A",
+        "net_income": "N/A",
+        "profit_margins": "N/A"
+      },
+      "financial_position": {
+        "total_assets": "N/A",
+        "total_liabilities": "N/A",
+        "shareholders_equity": "N/A",
+        "cash_position": "N/A"
+      },
+      "cash_flow": {
+        "operating_cash_flow": "N/A",
+        "free_cash_flow": "N/A",
+        "capex": "N/A"
+      },
+      "key_metrics": {
+        "eps": "N/A",
+        "pe_ratio": "N/A",
+        "debt_to_equity": "N/A",
+        "roe": "N/A"
+      },
+      "risks_and_outlook": {
+        "key_risks": "N/A",
+        "guidance": "N/A",
+        "market_conditions": "N/A"
+      }
+    },
+    "extraction_success": true,
+    "raw_model_output": "Here is the comprehensive JSON with the extracted financial information:\n\n```\n{\n  \"company_info\": {\n    \"name\": \"Best Buy Co., Inc.\",\n    \"sector\": \"Electronics Retailing\",\n    \"fiscal_year\": \"2023\"\n  },\n  \"revenue_data\": {\n    \"total_revenue\": \"N/A\",\n    \"revenue_growth\": \"N/A\",\n    \"revenue_breakdown\": \"N/A\"\n  },\n  \"profitability\": {\n    \"gross_profit\": \"N/A\",\n    \"operating_profit\": \"N/A\",\n    \"net_income\": \"N/A\",\n    \"profit_margins\": \"N/A\"\n  },\n  \"financial_position\": {\n    \"total_assets\": \"N/A\",\n    \"total_liabilities\": \"N/A\",\n    \"shareholders_equity\": \"N/A\",\n    \"cash_position\": \"N/A\"\n  },\n  \"cash_flow\": {\n    \"operating_cash_flow\": \"N/A\",\n    \"free_cash_flow\": \"N/A\",\n    \"capex\": \"N/A\"\n  },\n  \"key_metrics\": {\n    \"eps\": \"N/A\",\n    \"pe_ratio\": \"N/A\",\n    \"debt_to_equity\": \"N/A\",\n    \"roe\": \"N/A\"\n  },\n  \"risks_and_outlook\": {\n    \"key_risks\": \"N/A\",\n    \"guidance\": \"N/A\",\n    \"market_conditions\": \"N/A\"\n  }\n}\n```\n\nNote that most of the fields are set to \"N/A\" (Not Available) as there is no relevant financial information provided in the document."
+  },
+  "text_length": 3919
+}
