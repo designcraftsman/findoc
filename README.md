@@ -1,7 +1,13 @@
+
 # Team Members
 
 - [Oussama Fayz](https://github.com/designcraftsman)
 - [Youssef Moustaid](https://github.com/JosephMoustaid)
+
+# Video Links
+
+- [Demo Video](https://www.youtube.com/watch?v=ba3nCSJ3mXo&ab_channel=Oussama)
+- [Technical Video](https://www.youtube.com/watch?v=FhZ0t-HPR6Y&ab_channel=YoussefM)
 
 # 🚀 FinDoc-AI
 
