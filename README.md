@@ -6,11 +6,8 @@
 
 # Video Links
 
-- Demo video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ba3nCSJ3mXo?si=CowJuUXDAtDbaFuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Technical Video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FhZ0t-HPR6Y?si=FoLNWOoAUbUMB2BD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Demo Video](https://www.youtube.com/watch?v=ba3nCSJ3mXo&ab_channel=Oussama)
+- [Technical Video](https://www.youtube.com/watch?v=FhZ0t-HPR6Y&ab_channel=YoussefM)
 
 # 🚀 FinDoc-AI
 
@@ -19,8 +16,8 @@
 
 **FinDoc-AI** is an AI-powered financial document intelligence platform that transforms complex corporate PDFs into actionable investment insights — powered by cutting-edge LLMs, real-time market data, and interactive visualizations.
 
----
 
+---
 
 ## 🔍 Overview
 
