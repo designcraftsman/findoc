@@ -1,6 +1,7 @@
 # 🚀 FinDoc-AI
 
-![FinDoc-AI Banner](FinDoc-Ai.png)
+![FinDoc-AI Banner](FinDoc-AI.png)
+
 
 **FinDoc-AI** is an AI-powered financial document intelligence platform that transforms complex corporate PDFs into actionable investment insights — powered by cutting-edge LLMs, real-time market data, and interactive visualizations.
 
