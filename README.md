@@ -1,3 +1,8 @@
+# Team Members
+
+- [Oussama Fayz](https://github.com/designcraftsman)
+- [Youssef Moustaid](https://github.com/JosephMoustaid)
+
 # 🚀 FinDoc-AI
 
 ![FinDoc-AI Banner](FinDoc-AI.png)
